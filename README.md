@@ -1,4 +1,4 @@
-<h2 align="left">I'm July :)</h2>
+<h2 align="left">I'm July</h2>
 
 ###
 
