@@ -6,32 +6,22 @@
     <img src="https://img.shields.io/badge/coding-golang-blue">
 </p>
 <p>
-    <img src="https://img.shields.io/badge/database-postgres-blue
-"> 
-    <img src="https://img.shields.io/badge/database-clickhouse-yellow
-"> 
-    <img src="https://img.shields.io/badge/database-redis-red
-">
+    <img src="https://img.shields.io/badge/database-postgres-blue"> 
+    <img src="https://img.shields.io/badge/database-clickhouse-yellow"> 
+    <img src="https://img.shields.io/badge/database-redis-red">
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/containerization-docker-blue
-    ">
+    <img src="https://img.shields.io/badge/containerization-docker-blue">
 </p>
 
 <p>
-    <img src="https://img.shields.io/badge/tools-goland-green
-    ">
-    <img src="https://img.shields.io/badge/tools-vscode-blue
-    ">
-    <img src="https://img.shields.io/badge/tools-datagrip-blue
-    ">
-    <img src="https://img.shields.io/badge/tools-postman-orange
-    ">
-    <img src="https://img.shields.io/badge/tools-termius-blue
-    ">
-    <img src="https://img.shields.io/badge/tools-git-red
-    ">
+    <img src="https://img.shields.io/badge/tools-goland-green">
+    <img src="https://img.shields.io/badge/tools-vscode-blue">
+    <img src="https://img.shields.io/badge/tools-datagrip-blue">
+    <img src="https://img.shields.io/badge/tools-postman-orange">
+    <img src="https://img.shields.io/badge/tools-termius-blue">
+    <img src="https://img.shields.io/badge/tools-git-red">
 </p>
 
 
@@ -40,11 +30,9 @@
 
 <p>
     <a href="https://www.linkedin.com/in/bogdan-azimjanov" target="blank">
-        <img src="https://img.shields.io/badge/connect-LinkedIn-blue
-    ">
+        <img src="https://img.shields.io/badge/connect-LinkedIn-blue">
     </a>
-    <img src="https://img.shields.io/badge/gmail-azimjanovbogdan%40gmail.com-red
-    ">
+    <img src="https://img.shields.io/badge/gmail-azimjanovbogdan%40gmail.com-red">
 </p>
 
 <h3 align="left">📈 Some stats</h3>
