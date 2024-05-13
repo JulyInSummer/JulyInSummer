@@ -1,13 +1,53 @@
-<h1 align="center">Hi 👋, I'm July</h1>
-<h3 align="center">Aspiring go/golang developer. Self-tought software engineer</h3>
+<h1 align="center">Hi there. Welcome to my GitHub page</h1>
+<h3 align="center">I'm a software engineer who transitioned from EdTech. Currently making magic at <a href="https://billz.io/">Billz</a></h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bogdan-azimjanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bogdan-azimjanov" height="30" width="40" /></a>
+<h3 align="left">💻 Technical skills</h3>
+<p>
+    <img src="https://img.shields.io/badge/coding-golang-blue">
+</p>
+<p>
+    <img src="https://img.shields.io/badge/database-postgres-blue
+"> 
+    <img src="https://img.shields.io/badge/database-clickhouse-yellow
+"> 
+    <img src="https://img.shields.io/badge/database-redis-red
+">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p>
+    <img src="https://img.shields.io/badge/containerization-docker-blue
+    ">
+</p>
+
+<p>
+    <img src="https://img.shields.io/badge/tools-goland-green
+    ">
+    <img src="https://img.shields.io/badge/tools-vscode-blue
+    ">
+    <img src="https://img.shields.io/badge/tools-datagrip-blue
+    ">
+    <img src="https://img.shields.io/badge/tools-postman-orange
+    ">
+    <img src="https://img.shields.io/badge/tools-termius-blue
+    ">
+    <img src="https://img.shields.io/badge/tools-git-red
+    ">
+</p>
+
+
+
+<h3 align="left">💌 Connect with me:</h3>
+
+<p>
+    <a href="https://www.linkedin.com/in/bogdan-azimjanov" target="blank">
+        <img src="https://img.shields.io/badge/connect-LinkedIn-blue
+    ">
+    </a>
+    <img src="https://img.shields.io/badge/gmail-azimjanovbogdan%40gmail.com-red
+    ">
+</p>
+
+<h3 align="left">📈 Some stats</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julyinsummer&show_icons=true&locale=en&layout=compact" alt="julyinsummer" /></p>
 
