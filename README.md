@@ -1,4 +1,4 @@
-<h1 align="center">Hi there. Welcome to my GitHub page</h1>
+<h1 align="center">Hi there. Welcome to my GitHub page!</h1>
 <h3 align="center">I'm a software engineer who transitioned from EdTech. Currently working at <a href="https://billz.io/">Billz</a></h3>
 
 <h3 align="left">💻 Technical skills</h3>
